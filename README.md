@@ -21,14 +21,14 @@ A 2nd-year student pursuing Bachelors in Computer science studies with a special
 
 <img src="https://github-readme-stats.vercel.app/api?username=farhanceo&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
+- 📫 How to reach me: farhanahmed2794@gmail.com
+
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=farhanceo&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"" alt="farhanceo" /></p><br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=farhanceo&show_icons=true&locale=en&layout=compact" alt="farhanceo" /></p> 
 
 <p align="left"> <a href="https://twitter.com/farhanahmed2794" target="blank"><img src="https://img.shields.io/twitter/follow/farhanahmed2794?logo=twitter&style=for-the-badge" alt="farhanahmed2794" /></a> </p>
-<br>
 
-- 📫 How to reach me: farhanahmed2794@gmail.com
 <hr>
 
 <h3 align="center">Connect with me</h3>

@@ -39,5 +39,5 @@ A 2nd-year student pursuing Bachelors in Computer science studies with a special
 <a  href="https://www.instagram.com/a_farhanofficial/"><img align="center" width="50" height="50"   src="https://camo.githubusercontent.com/cd87356f145408dabc2bd78859f97b53e7f375a33899c3d3b20dcc7d6ff5a567/68747470733a2f2f696d672e69636f6e73382e636f6d2f637574652d636c69706172742f36342f3030303030302f696e7374616772616d2d6e65772e706e67"></a>
   </p>
 <hr>
-  ## Snake eating my contribution graph
-![snake gif](https://github.com/FarhanCeo/FarhanCeo/blob/output/github-contribution-grid-snake.gif)
+  <h3 align="center">Watch my contribution graph get eaten bythe snake</h3>
+  <img src="https://github.com/FarhanCeo/FarhanCeo/blob/output/github-contribution-grid-snake.gif">

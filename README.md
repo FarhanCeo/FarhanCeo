@@ -38,4 +38,6 @@ A 2nd-year student pursuing Bachelors in Computer science studies with a special
 <a  href="https://www.linkedin.com/in/farhanahmedindia/"><img align="center" width="50" height="50" src="https://camo.githubusercontent.com/29d6539c6be921530ca7e14266fcd8ef1d456400473b3b916923d29bc1dc8555/68747470733a2f2f696d672e69636f6e73382e636f6d2f637574652d636c69706172742f36342f3030303030302f6c696e6b6564696e2e706e67"></a>
 <a  href="https://www.instagram.com/a_farhanofficial/"><img align="center" width="50" height="50"   src="https://camo.githubusercontent.com/cd87356f145408dabc2bd78859f97b53e7f375a33899c3d3b20dcc7d6ff5a567/68747470733a2f2f696d672e69636f6e73382e636f6d2f637574652d636c69706172742f36342f3030303030302f696e7374616772616d2d6e65772e706e67"></a>
   </p>
-
+<hr>
+  ## Snake eating my contribution graph
+![snake gif](https://github.com/FarhanCeo/FarhanCeo/blob/output/github-contribution-grid-snake.gif)

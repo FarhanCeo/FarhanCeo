@@ -20,7 +20,7 @@ A 2nd-year student pursuing Bachelors in Computer science studies with a special
 
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=farhanceo&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+<img src="https://github-readme-stats.vercel.app/api?username=farhanceo&&show_icons=true&title_color=a82eb8&icon_color=ffea00&text_color=03f8fc&bg_color=151515">
 
 - 📫 How to reach me: farhanahmed2794@gmail.com
 

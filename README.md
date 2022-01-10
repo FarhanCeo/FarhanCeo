@@ -20,7 +20,7 @@ A 2nd-year student pursuing Bachelors in Computer science studies with a special
 <p align="left"> <a href="https://twitter.com/farhanahmed2794" target="blank"><img src="https://img.shields.io/twitter/follow/farhanahmed2794?logo=twitter&style=for-the-badge" alt="farhanahmed2794" /></a> </p>
 
 <img src="https://github-readme-stats.vercel.app/api?username=FarhanCeo&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
-- 📫 How to reach me: farhanahmed2794@gmail.com
+- 📫 How to reach me: farhanahmed2794@gmail.com<br>
 - Linkedin Profile: [Linkedin](https://www.linkedin.com/in/farhanahmedindia/).
 - Twitter Profile: [Twitter](https://twitter.com/FarhanAhmed2794).
 <br><hr>

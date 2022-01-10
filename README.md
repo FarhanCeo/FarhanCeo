@@ -24,7 +24,10 @@ A 2nd-year student pursuing Bachelors in Computer science studies with a special
 
 - 📫 How to reach me: farhanahmed2794@gmail.com
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=farhanceo&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"" alt="farhanceo" /></p><br>
+
+
+
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com?user=farhanceo&theme=radical&date_format=M%20j%5B%2C%20Y%5D" alt="farhanceo" /></p><br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=farhanceo&show_icons=true&locale=en&layout=compact" alt="farhanceo" /></p> 
 

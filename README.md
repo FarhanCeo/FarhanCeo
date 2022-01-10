@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 A 2nd-year student pursuing Bachelors in Computer science studies with a specialization of Cyber Forensics, from ITM University, Gwalior. I am a Cyber Security enthusiast, Web developer, and a startup lover.
 <img src="https://github-readme-stats.vercel.app/api?username=FarhanCeo&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
-- 📫 How to reach me: farhanahmed2794@gmail.com
+- 📫 How to reach me: farhanahmed2794@gmail.com, [Linkedin](https://www.linkedin.com/in/farhanahmedindia/).

@@ -22,3 +22,4 @@ A 2nd-year student pursuing Bachelors in Computer science studies with a special
 <br>
 <a href="https://twitter.com/FarhanAhmed2794"><img src="https://camo.githubusercontent.com/8992cd691986aebbd0976e0f480913ad1613cb4afbb73d477805492c2e95467e/68747470733a2f2f696d672e69636f6e73382e636f6d2f637574652d636c69706172742f36342f3030303030302f747769747465722e706e67"></a>
 <a href="#"><img src="https://www.clipartmax.com/png/full/19-193204_instagram-instagram-social-media-icons.png"></a>
+<a href="https://www.linkedin.com/in/farhanahmedindia/"><img src="https://www.clipartmax.com/png/full/83-836325_additionally-he-has-been-a-member-of-the-bolder-options-linkedin-logo.png"></a>
